@@ -1,5 +1,5 @@
 NAME="Nogeese Linux"
-PRETTY_NAME="Nogeese Linux Stable"
+PRETTY_NAME="Nogeese Linux Rolling"
 ID=nogeese-linux
 ID_LIKE=arch
 BUILD_ID=stable
